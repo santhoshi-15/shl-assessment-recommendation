@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# Large / generated files
+embeddings/store/
+.cache/
+*.pkl
+
+# Data
+Gen_AI Dataset.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+
